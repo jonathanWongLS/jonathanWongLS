@@ -1,7 +1,3 @@
-<h2 align="center">
-    <b>Jonathan Wong Leong Shan</b><br/>
-    <img alt="Jonathan Wong Leong Shan" src="https://portfolio-jonathan.vercel.app/static/media/me_about.26aa2a3dac61c72ecf55.png" height="250px"/></img>
-</h2>
 <p align="center">
   <img alt="Jonathan Github Trophy" src="https://github-profile-trophy.vercel.app/?username=jonathanWongLS&row=1&theme=monokai"></img>
 </p>
